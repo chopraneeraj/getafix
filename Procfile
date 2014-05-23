@@ -1,1 +1,2 @@
-web: bin/hubot -a campfire -n Hubot
+app: bin/hubot -a gtalk -n getafix
+
