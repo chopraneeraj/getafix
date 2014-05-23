@@ -1,1 +1,8 @@
-["hubot-gtalk", "shipit.coffee"]
+[
+    "hubot-gtalk", 
+    "shipit.coffee", 
+    "rajinikanth.coffee",
+    "yell.coffee",
+    "coin.coffee", 
+    "announce.coffee"
+]
