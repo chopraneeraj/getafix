@@ -4,5 +4,8 @@
     "rajinikanth.coffee",
     "yell.coffee",
     "coin.coffee", 
-    "announce.coffee"
+    "announce.coffee",
+    "advice.coffee",
+    "ascii.coffee",
+    "fortune.coffee"
 ]
